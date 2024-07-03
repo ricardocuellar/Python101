@@ -1,0 +1,33 @@
+Una lista -> ordenada 
+
+[1,2,3,4,5]
+0,1,2,3,4,5
+
+['manzana','banano','aguacate']
+
+[100,'Lancer', True]
+lista[1]
+
+Un diccionario -> NO es ordenado
+1,2,3,4,5
+'a','b','patito'
+
+{
+    'vida': 100,
+    'arma': 'Lancer',
+    'armadura': True
+}
+
+{
+    12: 'Holaaa',
+    [1,2]: 'Luisa'
+}
+
+{
+    'saludo': 'Holaaa',
+    'nombre': 'Luisa',
+    'edad': 30
+}
+
+
+lista['arma']
