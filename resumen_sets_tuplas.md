@@ -1,0 +1,22 @@
+4 tipos de estructura
+
+- Listas
+  - Ordenadas en llaves (posición)
+  - No ordenadas en valor
+  - Puede tener valores repetidos
+  - SI son mutables
+- Diccionarios
+  - No ordenados en llaves (posición)
+  - No ordanos en valor
+  - Llave única.
+  - SI son mutables
+- Tuplas
+  - Ordenadas en llaves (posición)
+  - No ordenadas en valor
+  - Pueden tener valores repetidos
+  - Son INMUTABLES
+- Sets
+  - Ordenados en llaves (posición)
+  - Ordenados en valor
+  - No pueden tener valores repetidos
+  - Son INMUTABLES
