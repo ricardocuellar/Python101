@@ -20,19 +20,30 @@ p_magico = int(input("¿Desea que su personaje sea mágico?: "))
 p_experto = int(input("¿Desea que su personaje sea experto?: "))
 p_espadachin = int(input("¿Desea que su personaje sea espadachín?: "))
 personajes = [p_magico, p_experto, p_espadachin]
+personajes_value = ["magico", "experto", "espadachin"]
 
-nombres = {
-    'magico' : personajes[0],
-    'experto' : personajes[1],
-    'espadachin' : personajes[2]
-}
 
-for i in nombres: 
-    p_magico 
-    if nombres.values() == 1:
-        print(nombres.get('i'))
-elif i == 0:
-    print("Su personaje es")
+
+# nombres = {
+#     'magico' : personajes[0],
+#     'experto' : personajes[1],
+#     'espadachin' : personajes[2]
+# }
+
+for i in personajes: #llave -> valor
+    print(i) #Evaluación if
+    #Buscar la posición de la llave en la lista personajes_value
+
+# print(nombres.values())
+
+# p_magico_dic = nombre["magico"] if p_magico else 
+
+# for i in nombres: 
+#     p_magico 
+#     if nombres.values() == 1:
+#         print(nombres.get('i'))
+# elif i == 0:
+#     print("Su personaje es")
 
 # for i, j in enumerate(personajes):
 #     if j == 1:
