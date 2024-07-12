@@ -30,8 +30,8 @@ personajes_value = ["magico", "experto", "espadachin"]
 #     'espadachin' : personajes[2]
 # }
 
-for i in personajes: #llave -> valor
-    print(i) #Evaluación if
+for key,i in enumerate(personajes): #llave -> valor
+    print(key,i) #Evaluación if
     #Buscar la posición de la llave en la lista personajes_value
 
 # print(nombres.values())
